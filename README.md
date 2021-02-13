@@ -33,9 +33,9 @@ To-do list:
 
 ## Links for data
 
-* ![Pageviews Filtered to Human Traffic](https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews)
-* ![Page Revision and User History](https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Edits/Mediawiki_history_dumps#Technical_Documentation)
-* ![Monthly Clickstream](https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream)
+* [Pageviews Filtered to Human Traffic](https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews)
+* [Page Revision and User History](https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Edits/Mediawiki_history_dumps#Technical_Documentation)
+* [Monthly Clickstream](https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream)
 
 ## Getting Started
    
@@ -47,17 +47,17 @@ To-do list:
 
 ## Usage
 
-* !Q1(https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1.sql)
-* ![Q1+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1%2B.sql)
-* ![Q2](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q2.sql)
-* ![Q2+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q2%2B.sql)
-* ![Q3](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q3.sql)
-* ![Q3+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q3%2B.sql)
-* ![Q4](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q4.sql)
-* ![Q4+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q4v2.sql)
-* ![Q5](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q5.sql)
-* ![Q5+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q5v2.sql)
-* ![Q6](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q6.sql)
+* [Q1](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1.sql)
+* [Q1+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1%2B.sql)
+* [Q2](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q2.sql)
+* [Q2+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q2%2B.sql)
+* [Q3](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q3.sql)
+* [Q3+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q3%2B.sql)
+* [Q4](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q4.sql)
+* [Q4+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q4v2.sql)
+* [Q5](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q5.sql)
+* [Q5+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q5v2.sql)
+* [Q6](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q6.sql)
 
 ## License
 
