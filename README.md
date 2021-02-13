@@ -31,17 +31,33 @@ To-do list:
 * Take more data over a longer period in order to average out random noises 
 * Consider abnormalities in some sub-group of data rather than assuming all behaving uniformly
 
+## Links for data
+
+* ![Pageviews Filtered to Human Traffic](https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Traffic/Pageviews)
+* ![Page Revision and User History](https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Edits/Mediawiki_history_dumps#Technical_Documentation)
+* ![Monthly Clickstream](https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream)
+
 ## Getting Started
    
 * Fork this repository.
 * Create a branch: git checkout -b <branch_name>.
 * Make your changes and commit them: git commit -m '<commit_message>'
-* Push to the original branch: git push origin FaceDetectors/<location>
+* Push to the original branch: git push origin Wikipedia-Big-Data-Analysis/<location>
 * Create the pull request.
 
 ## Usage
 
-
+* ![Q1](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1.sql)
+* ![Q1+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1%2B.sql)
+* ![Q2](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q2.sql)
+* ![Q2+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q2%2B.sql)
+* ![Q3](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q3.sql)
+* ![Q3+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q3%2B.sql)
+* ![Q4](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q4.sql)
+* ![Q4+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q4v2.sql)
+* ![Q5](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q5.sql)
+* ![Q5+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q5v2.sql)
+* ![Q6](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q6.sql)
 
 ## License
 
