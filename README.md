@@ -29,6 +29,7 @@ List of features ready and TODOs for future development
 
 To-do list:
 * Take more data over a longer period in order to average out random noises 
+![Fig.1](https://github.com/renjmindy/Wikipedia-Big-Data-Analysis/blob/main/pic/pj1-wb-2.png)
 * Consider abnormalities as appeared in some sub-groups of data rather than assuming all behaving uniformly
 ![Fig.2](https://github.com/renjmindy/Wikipedia-Big-Data-Analysis/blob/main/pic/pj1-wb-3.png)
 
@@ -52,9 +53,9 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 * **Top10** articles which attract most views
 [Q1](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1.sql)/[A1](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q1A/p1q1t1.tsv)
-* **Top10** subjects/titles which attract most views
+* **Top10** articles (grouped by subjects/titles) which attract most overall views
 [Q1+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1%2B.sql)/[A1v1](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q1A%2B/p1q9t1.tsv)/[A1v2](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q1A%2B/p1q9t2.tsv)
-* **Top600** subjects/titles which attract most click counts via internal link only
+* **Top600** subjects/titles which attract most click counts via internal link only, given three types of links: internal, external and others
 [Q2](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q2.sql)/[A2](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q2A/p1q2t2_8.tsv)
 * **Top600** subjects/titles which attract most views from readers via clicking on internal link only
 [Q2+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q2%2B.sql)/[A2](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q2A%2B/p1q7t5_1.tsv)
