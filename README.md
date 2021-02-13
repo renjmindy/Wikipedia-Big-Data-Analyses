@@ -49,25 +49,25 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 ## HQL Source Codes For Each Question Study
 
-* Top10 articles which attract most views
+* **Top10** articles which attract most views
 [Q1](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1.sql)/[A1](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q1A/p1q1t1.tsv)
-* Top10 subjects/titles which attract most views
+* **Top10** subjects/titles which attract most views
 [Q1+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1%2B.sql)/[A1v1](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q1A%2B/p1q9t1.tsv)/[A1v2](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q1A%2B/p1q9t2.tsv)
-* Top600 subjects/titles which attract most click counts via internal link only
+* **Top600** subjects/titles which attract most click counts via internal link only
 [Q2](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q2.sql)/[A2](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q2A/p1q2t2_8.tsv)
-* Top600 subjects/titles which attract most views from readers via clicking on internal link only
+* **Top600** subjects/titles which attract most views from readers via clicking on internal link only
 [Q2+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q2%2B.sql)/[A2](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q2A%2B/p1q7t5_1.tsv)
-* Top600 articles which starts with "Hotel_California" attract most click counts via internal link only 
+* **Top600** articles which starts with "Hotel_California" attract most click counts via internal link only 
 [Q3](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q3.sql)/[A3](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q3A/p1q3t1_3.tsv)
-* Top600 articles which starts with "Hotel_California" attract most views from readers via clicking on internal link only
+* **Top600** articles which starts with "Hotel_California" attract most views from readers via clicking on internal link only
 [Q3+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q3%2B.sql)/[A3](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q3A%2B/p1q8t7_1.tsv)
-* Top100 articles which attract most views in America than anywhere else
+* **Top100** articles which attract most views in America than anywhere else
 [Q4](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q4.sql)/[A4(1)](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q4A/p1q4t1_d201229_00_05.tsv)/[A4(2)](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q4A/p1q4t1_d201229_06_11.tsv)/[A4(3)](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q4A/p1q4t1_d201229_12_17.tsv)/[A4(4)](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q4A/p1q4t1_d201229_18_23.tsv)
-* Top600 articles which attract most views in America than anywhere else 
+* **Top600** articles which attract most views in America than anywhere else 
 [Q4+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q4v2.sql)/[A4(1)](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q4A/p1q4t1_d201229_00_05_2.tsv)/[A4(2)](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q4A/p1q4t1_d201229_06_11_2.tsv)/[A4(3)](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q4A/p1q4t1_d201229_12_17_2.tsv)/[A4(4)](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q4A/p1q4t1_d201229_18_23_2.tsv)
-* Top600 ratios of users to revision counts for all pages
+* **Top600** ratios of users to revision counts for all pages
 [Q5](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q5.sql)/[A5](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q5A/p1q5t1_3.tsv)
-* Top600 average ratios of users to revision counts for one given page: taking average over all correpsonding ratios of user numbers to revision counts to all pages
+* **Top600** average ratios of users to revision counts for one given page: taking average over all correpsonding ratios of user numbers to revision counts to all pages
 [Q5+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q5v2.sql)/[A5](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q5A/p1q5t4_1.tsv)
 * Measure data size reduction after taking the reversion of offending edits into consideration
 [Q6](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q6.sql)/[A6](https://github.com/renjmindy/210104-usf-bigdata/tree/main/proj1_0/Q6A)
