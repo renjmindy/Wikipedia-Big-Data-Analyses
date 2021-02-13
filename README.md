@@ -29,7 +29,7 @@ List of features ready and TODOs for future development
 
 To-do list:
 * Take more data over a longer period in order to average out random noises 
-* Consider abnormalities in some sub-group of data rather than assuming all behaving uniformly
+* Consider abnormalities as appeared in some sub-groups of data rather than assuming all behaving uniformly
 
 ## Links for data
 
@@ -37,7 +37,7 @@ To-do list:
 * [Page Revision and User History](https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Edits/Mediawiki_history_dumps#Technical_Documentation)
 * [Monthly Clickstream](https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream)
 
-## Getting Started
+## Getting Started With Contributing to Wikipedia Big Data Analysis
    
 * Fork this repository.
 * Create a branch: git checkout -b <branch_name>.
