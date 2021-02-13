@@ -49,8 +49,8 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 ## HQL Source Codes For Each Question Study
 
-* [Q1](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1.sql)
-* [Q1+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1%2B.sql)
+* [Q1](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1.sql) [A1](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q1A/p1q1t1.tsv)
+* [Q1+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1%2B.sql) [A1+v1](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q1A%2B/p1q9t1.tsv) [A1+v2](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Q1A%2B/p1q9t2.tsv)
 * [Q2](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q2.sql)
 * [Q2+](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q2%2B.sql)
 * [Q3](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q3.sql)
