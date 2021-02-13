@@ -41,12 +41,34 @@ To-do list:
 
 ## Getting started
 
-### Download + install Hive
+* Download + install Hive
 
-* cd to your home directory
-            wget https://mirrors.sonic.net/apache/hive/hive-2.3.8/apache-hive-2.3.8-bin.tar.gz
-* wait for this complete
-            tar -xvzf apache-hive-2.3.8-bin.tar.gz
+   - cd to your home directory
+         
+         - wget https://mirrors.sonic.net/apache/hive/hive-2.3.8/apache-hive-2.3.8-bin.tar.gz
+   
+   - wait for this complete
+         
+         - tar -xvzf apache-hive-2.3.8-bin.tar.gz
+         
+* Add exports to .bashrc
+
+         - sudo nano .bashrc
+
+   - Add the lines below to the .bashrc that opens, replacing username with your username
+
+         - export HADOOP_HOME=/home/username/hadoop-2.7.7
+         - export HIVE_HOME=/home/username/apache-hive-2.3.8-bin
+         - export PATH=$HADOOP_HOME/bin:$HIVE_HOME/bin:$PATH
+
+   - Additional shortcuts, from Danny:
+
+         - alias startdfs='$HADOOP_HOME/sbin/start-dfs.sh'
+         - alias startyarn='$HADOOP_HOME/sbin/start-yarn.sh'
+         - alias stopdfs='$HADOOP_HOME/sbin/stop-dfs.sh'
+         - alias stopyarn='$HADOOP_HOME/sbin/stop-yarn.sh'
+
+   - Close and restart your Ubuntu shell.
 
 ## Contributing to Wikipedia Big Data Analysis
    
