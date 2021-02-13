@@ -39,7 +39,16 @@ To-do list:
 * [Page Revision and User History](https://wikitech.wikimedia.org/wiki/Analytics/Data_Lake/Edits/Mediawiki_history_dumps#Technical_Documentation)
 * [Monthly Clickstream](https://meta.wikimedia.org/wiki/Research:Wikipedia_clickstream)
 
-## Getting Started With Contributing to Wikipedia Big Data Analysis
+## Getting started
+
+### Download + install Hive
+
+* cd to your home directory
+            wget https://mirrors.sonic.net/apache/hive/hive-2.3.8/apache-hive-2.3.8-bin.tar.gz
+* wait for this complete
+            tar -xvzf apache-hive-2.3.8-bin.tar.gz
+
+## Contributing to Wikipedia Big Data Analysis
    
 * Fork this repository.
 * Create a branch: git checkout -b <branch_name>.
