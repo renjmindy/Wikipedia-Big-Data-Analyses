@@ -30,6 +30,7 @@ List of features ready and TODOs for future development
 To-do list:
 * Take more data over a longer period in order to average out random noises 
 * Consider abnormalities as appeared in some sub-groups of data rather than assuming all behaving uniformly
+https://github.com/renjmindy/Wikipedia-Big-Data-Analysis/blob/main/pic/pj1-wb-3.png
 
 ## Links for data
 
