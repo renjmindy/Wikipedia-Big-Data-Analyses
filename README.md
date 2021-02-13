@@ -45,6 +45,8 @@ To-do list:
 * Push to the original branch: git push origin Wikipedia-Big-Data-Analysis/<location>
 * Create the pull request.
 
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
 ## HQL Source Codes For Each Question Study
 
 * [Q1](https://github.com/renjmindy/210104-usf-bigdata/blob/main/proj1_0/Project1Q1.sql)
