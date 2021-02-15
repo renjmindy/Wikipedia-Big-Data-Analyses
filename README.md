@@ -22,12 +22,12 @@ Project 1's analysis consists of using big data tools to answer questions about 
 
 ## Features
 
-List of features ready and TODOs for future development
+### List of features ready and TODOs for future development
 * Join multiple separate data sets 
 * Estimate a ratio with the inclusion of codition (aka: selection criterion) 
 * Measure the data size reduction in one given category after applying cuts 
 
-To-do list:
+### To-do list:
 * Take more data over a longer period in order to average out random noises 
 ![Fig.1](https://github.com/renjmindy/Wikipedia-Big-Data-Analysis/blob/main/pic/pj1-wb-2.png)
 * Consider abnormalities as appeared in some sub-groups of data rather than assuming all behaving uniformly
