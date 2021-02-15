@@ -24,7 +24,7 @@ Project 1's analysis consists of using big data tools to answer questions about 
 
 List of features ready and TODOs for future development
 * Join multiple separate data sets 
-* Estimate a ratio with the inclusion of codition (or selection criterion) 
+* Estimate a ratio with the inclusion of codition (aka: selection criterion) 
 * Measure the data size reduction in one given category after applying cuts 
 
 To-do list:
