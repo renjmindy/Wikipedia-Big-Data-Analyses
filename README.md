@@ -138,7 +138,6 @@ Project 1's analysis consists of using big data tools to answer questions about 
 
   - Hive runs using Hadoop, so you'll need to have HDFS + YARN running.
   - You'll also need to remember to start the ssh daemon (sshd) when you boot up Ubuntu after a restart
-  - This install guide required some fiddling, and it's possible I missed a necessary step. If you're sure you followed directions, reach out + let me know if you run into unexpected problems. Especially if Hive is telling you that you're not allowed to impersonate another user!
 
 ## Contributing to Wikipedia Big Data Analysis
    
